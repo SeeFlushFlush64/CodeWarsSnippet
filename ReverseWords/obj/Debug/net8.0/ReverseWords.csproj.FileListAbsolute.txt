@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\bin\Debug\net8.0\ReverseWords.exe
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\bin\Debug\net8.0\ReverseWords.deps.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\bin\Debug\net8.0\ReverseWords.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\bin\Debug\net8.0\ReverseWords.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\bin\Debug\net8.0\ReverseWords.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\refint\ReverseWords.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ReverseWords.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\ReverseWords\obj\Debug\net8.0\ref\ReverseWords.dll
