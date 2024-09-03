@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CheckNumberIfPefectSquare/1.0.0": {
+        "runtime": {
+          "CheckNumberIfPefectSquare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckNumberIfPefectSquare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

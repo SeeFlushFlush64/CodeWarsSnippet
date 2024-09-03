@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\bin\Debug\net8.0\CheckNumberIfPefectSquare.exe
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\bin\Debug\net8.0\CheckNumberIfPefectSquare.deps.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\bin\Debug\net8.0\CheckNumberIfPefectSquare.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\bin\Debug\net8.0\CheckNumberIfPefectSquare.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\bin\Debug\net8.0\CheckNumberIfPefectSquare.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\refint\CheckNumberIfPefectSquare.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\CheckNumberIfPefectSquare.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CheckNumberIfPerfectSquare\obj\Debug\net8.0\ref\CheckNumberIfPefectSquare.dll
