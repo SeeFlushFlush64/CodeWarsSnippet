@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\bin\Debug\net8.0\CyrillicLetters.exe
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\bin\Debug\net8.0\CyrillicLetters.deps.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\bin\Debug\net8.0\CyrillicLetters.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\bin\Debug\net8.0\CyrillicLetters.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\bin\Debug\net8.0\CyrillicLetters.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\refint\CyrillicLetters.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\CyrillicLetters.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CyrillicLetters\obj\Debug\net8.0\ref\CyrillicLetters.dll

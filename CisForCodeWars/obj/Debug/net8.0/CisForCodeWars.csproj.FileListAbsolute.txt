@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\bin\Debug\net8.0\CisForCodeWars.exe
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\bin\Debug\net8.0\CisForCodeWars.deps.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\bin\Debug\net8.0\CisForCodeWars.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\bin\Debug\net8.0\CisForCodeWars.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\bin\Debug\net8.0\CisForCodeWars.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\refint\CisForCodeWars.dll
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.pdb
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\CisForCodeWars.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\CodeWarsCodeSnippets\CisForCodeWars\obj\Debug\net8.0\ref\CisForCodeWars.dll
